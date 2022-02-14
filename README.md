@@ -1,2 +1,2 @@
 # -subsystem-3d-visualization
-3d visualization of large data flows
+ВКРМ проект ИУ6-41М для МГТУ им. Н.Э. Баумана
